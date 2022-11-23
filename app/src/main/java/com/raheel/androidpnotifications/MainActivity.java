@@ -34,7 +34,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-
         Button btnSimpleNotification = findViewById(R.id.btnSimpleNotification);
         Button btnNotificationIcon = findViewById(R.id.btnNotificationIcon);
         Button btnNotificationImage = findViewById(R.id.btnNotificationImage);
